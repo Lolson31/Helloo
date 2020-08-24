@@ -10,7 +10,7 @@
 int main(int argc, char** argv)
 {
     printf("Luke Olson!\n");
-    printf("I am majoring in Computer Science!\n")
+    printf("I am majoring in Computer Science!\n");
     printf("Cobey Gragg!\n");
     printf("I am majoring in computer engineering!\n");
     return 0;
